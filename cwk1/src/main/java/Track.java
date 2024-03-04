@@ -1,7 +1,7 @@
 /**
  * Represents a point in space and time, recorded by a GPS sensor.
  *
- * @author YOUR NAME
+ * @author Ho Chun Wong
  */
 public class Track {
   // TODO: Create a stub for the constructor
